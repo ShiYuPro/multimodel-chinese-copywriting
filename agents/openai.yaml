@@ -1,0 +1,4 @@
+interface:
+  display_name: "多模型中文文案"
+  short_description: "按任务选择豆包、Kimi 或 DeepSeek 起稿，再由 Codex 核实"
+  default_prompt: "Use $multimodel-chinese-copywriting to route this Chinese copy task to the best-fit model, then verify and finish it."

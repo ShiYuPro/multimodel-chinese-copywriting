@@ -1,0 +1,8 @@
+Task: Draft a short Simplified Chinese introduction for a fictional note-taking app.
+Audience: People who want to record a thought quickly.
+Surface: Product landing page, one paragraph and one action label.
+Approved public facts: ExampleNotes stores plain-text notes locally on the device.
+Desired reader decision: This is suitable for quickly saving a short thought.
+One next action: Try creating a note.
+Do not invent: Sync, encryption, pricing, user counts, endorsements, AI features.
+Tone: Clear and conversational. Do not turn local storage into a security guarantee.
