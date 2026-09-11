@@ -2,6 +2,8 @@
 
 Draft Chinese copy with Kimi, Doubao or DeepSeek, then verify facts before shipping. A skill for Codex and Claude Code with explicit API configuration and offline dry runs.
 
+[View on skills.sh](https://skills.sh/ShiYuPro/multimodel-chinese-copywriting/multimodel-chinese-copywriting)
+
 ## Install
 
 With [Skills CLI](https://skills.sh/docs) (Node.js and npm required):
